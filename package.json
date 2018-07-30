@@ -1,0 +1,14 @@
+{
+  "name": "livesync-test",
+  "version": "0.0.1",
+  "description": "Testing livesync tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global-modules-path": "2.0.0"
+  }
+}
